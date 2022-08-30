@@ -99,3 +99,5 @@ tasks:
     command: echo "Hello"
   - name: task-50
     command: echo "Hello"
+  - name: task-51
+    command: gp tasks stop --all
